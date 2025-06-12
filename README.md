@@ -4,6 +4,9 @@
 
 <img src="C:\Users\Asus\OneDrive\Desktop\python 2\air-india.jpg" width=1200>
 
+
+
+
 📌 Project Overview
 
 This project analyzes passenger satisfaction using a dataset from an airline company. The goal is to uncover key factors that influence satisfaction levels and apply data preprocessing, exploratory data analysis (EDA), and predictive modeling techniques to generate insights.
@@ -11,19 +14,19 @@ This project analyzes passenger satisfaction using a dataset from an airline com
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📂 Dataset Description
 
-      The dataset airline_passenger_satisfaction.csv contains 24 columns and includes information such as:
+ The dataset airline_passenger_satisfaction.csv contains 24 columns and includes information such as:
 
-       Demographics:
+  Demographics:
 
-              -Gender, Age, Customer Type
+   -Gender, Age, Customer Type
 
-              -Travel info: Type of Travel, Class, Flight Distance
+   -Travel info: Type of Travel, Class, Flight Distance
 
-              -Service Ratings: In-flight service, Food and Drink, Cleanliness, etc.
+   -Service Ratings: In-flight service, Food and Drink, Cleanliness, etc.
 
-              -Delays: Departure and Arrival Delays
+   -Delays: Departure and Arrival Delays
 
-              -Target: Satisfaction (Satisfied / Neutral or Dissatisfied)
+   -Target: Satisfaction (Satisfied / Neutral or Dissatisfied)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🛠 Technologies Used
