@@ -2,7 +2,7 @@
 ✈️ Airline Passenger Satisfaction Analysis
 
 
-<img src="C:\Users\Asus\OneDrive\Desktop\python 2\air-india.jpg" width=1200>
+![](Pollution_image.webp)
 
 
 
